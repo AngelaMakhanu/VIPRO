@@ -1,0 +1,19 @@
+#0 {main}
+  thrown in /home/thevirtu/public_html/wp-includes/template-canvas.php on line 12
+[02-Dec-2021 12:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/thevirtu/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/thevirtu/public_html/wp-includes/template-canvas.php on line 12
+[16-Dec-2021 22:30:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/thevirtu/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/thevirtu/public_html/wp-includes/template-canvas.php on line 12
+[12-Feb-2022 17:55:57 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/thevirtu/public_html/wp-includes/class-wp-http.php on line 11
+[12-Feb-2022 17:55:57 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/thevirtu/public_html/wp-includes/class-wp-http.php on line 11
+[12-Feb-2022 17:55:57 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/thevirtu/public_html/wp-includes/class-wp-http.php on line 11
+[12-Feb-2022 17:55:57 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/thevirtu/public_html/wp-includes/class-wp-http.php on line 11
+[12-Feb-2022 17:55:57 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/thevirtu/public_html/wp-includes/class-wp-http.php on line 11
+[12-Feb-2022 17:58:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/thevirtu/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/thevirtu/public_html/wp-includes/template-canvas.php on line 12

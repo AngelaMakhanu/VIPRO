@@ -1,0 +1,14 @@
+#0 {main}
+  thrown in /home/thevirtu/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Aug-2021 02:34:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/thevirtu/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/thevirtu/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Dec-2021 22:33:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/thevirtu/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/thevirtu/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Feb-2022 18:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/thevirtu/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/thevirtu/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
